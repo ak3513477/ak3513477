@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/asadkha39155091" target="blank"><img src="https://img.shields.io/twitter/follow/asadkha39155091?logo=twitter&style=for-the-badge" alt="asadkha39155091" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analyst Projects**
+- 🔭 I am currently working on **Data Analyst Projects**
 
 - 💬 Ask me about **Excel,Power BI,Tableau,Python,SQL,HTML,CSS,Javascript,Java**
 
